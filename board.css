@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    font-family: serif;
+}
+
+header{
+    background-color: deepskyblue;
+    width:100%;
+}
+
+.menu{
+    background-color: indianred;
+}
+
+.global-nav{
+  float:right;
+  margin-top:1px;
+  margin-bottom: 20px;
+}
+
+.global-nav li{
+  margin:0 20px;
+  font-size:20px;
+  list-style:none;
+  font-family: 'Bitter', serif;
+}
+
+ul{
+    list-style: none;
+}
+
+.user{
+    margin-bottom: 15px;
+}
+
+.message{
+    margin-top: 10px;
+    margin-bottom: 12px;
+}
+
+.label{
+    vertical-align: top;
+    margin-right: 5px;
+}
+
+.post{
+    border-top: 1px solid;
+    margin: 30px auto;
+    max-width: 100%;
+}
